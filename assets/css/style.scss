@@ -1,9 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-<link rel="stylesheet" href="style.scss">
+@import "{{ <link rel="stylesheet" href="style.scss">
 
 
 /* General Styling */
@@ -132,3 +130,5 @@ footer {
 footer p {
     margin: 0;
 }
+ }}";
+
