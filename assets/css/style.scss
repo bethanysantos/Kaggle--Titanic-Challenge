@@ -1,2 +1,7 @@
 @import "{{ site.theme }}";
 @import "custom-style";
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #b52681 !default;
+$header-bg-color-secondary: #155799 !default;
